@@ -1,6 +1,6 @@
 # Analysis of June and December in Hawaii
 
-we were tasked with analyzing and comparing temperature data from summer and winter in Hawaii to determine if the weather would support year round business for a prospective surf shop. We were given data going back several years of consistent temperature measurements taken in the month of June and the month of Decemeber. This gave us a olsid sample to compare average temperatures for these months, as well as other summary stats like high and low.
+We were tasked with analyzing and comparing temperature data from summer and winter in Hawaii to determine if the weather would support year round business for a prospective surf shop. We were given data going back several years of consistent temperature measurements taken in the month of June and the month of Decemeber. This gave us a olsid sample to compare average temperatures for these months, as well as other summary stats like high and low.
 
 ## Results
 
