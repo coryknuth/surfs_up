@@ -6,8 +6,8 @@ we were tasked with analyzing and comparing temperature data from summer and win
 
 First, here is a comparison of the summary data for the two months.
 
-June
+June  
 <img src="https://github.com/coryknuth/surfs_up/blob/68a36d1cc08a67d427966e47ee863a551f1f2b4b/June_Summary.png"/>
 
-December
+December  
 <img src="https://github.com/coryknuth/surfs_up/blob/dba7ab127042ae17796c8d259a8799f41a184484/Dec_Summary.png"/>
